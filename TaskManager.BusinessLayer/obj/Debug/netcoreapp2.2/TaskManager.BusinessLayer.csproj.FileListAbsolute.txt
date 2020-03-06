@@ -1,0 +1,40 @@
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.deps.json
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.csproj.CopyComplete
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.deps.json
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.csprojAssemblyReference.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.AssemblyInfoInputs.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.AssemblyInfo.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.csproj.CopyComplete
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.csprojAssemblyReference.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.AssemblyInfoInputs.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.AssemblyInfo.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.deps.json
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.csproj.CopyComplete
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.BusinessLayer\obj\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb

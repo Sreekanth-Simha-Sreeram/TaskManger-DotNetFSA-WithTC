@@ -1,0 +1,108 @@
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.deps.json
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.runtimeconfig.json
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.runtimeconfig.dev.json
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorAssemblyInfo.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorAssemblyInfo.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.TagHelpers.input.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.TagHelpers.output.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorCoreGenerate.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.Views.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.csproj.CopyComplete
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.deps.json
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.runtimeconfig.json
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.runtimeconfig.dev.json
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.csprojAssemblyReference.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.csproj.CoreCompileInputs.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorAssemblyInfo.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorAssemblyInfo.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.AssemblyInfoInputs.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.AssemblyInfo.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.TagHelpers.input.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.TagHelpers.output.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorCoreGenerate.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorTargetAssemblyInfo.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorTargetAssemblyInfo.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.Views.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.csproj.CopyComplete
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.csprojAssemblyReference.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.csproj.CoreCompileInputs.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorAssemblyInfo.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorAssemblyInfo.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.AssemblyInfoInputs.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.AssemblyInfo.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.deps.json
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.runtimeconfig.json
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.runtimeconfig.dev.json
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.TagHelpers.input.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.TagHelpers.output.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorCoreGenerate.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorTargetAssemblyInfo.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.RazorTargetAssemblyInfo.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.Views.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.csproj.CopyComplete
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManagerCore\obj\Debug\netcoreapp2.2\TaskManager.Web.pdb

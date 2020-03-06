@@ -1,0 +1,38 @@
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.deps.json
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.csproj.CopyComplete
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.deps.json
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.csprojAssemblyReference.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.csproj.CoreCompileInputs.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.AssemblyInfoInputs.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.AssemblyInfo.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.csproj.CopyComplete
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.deps.json
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.csprojAssemblyReference.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.csproj.CoreCompileInputs.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.AssemblyInfoInputs.cache
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.AssemblyInfo.cs
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.csproj.CopyComplete
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+E:\FinalCode-DotNet\TaskManagerCore(1)\TaskManager.DataLayer\obj\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb

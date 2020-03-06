@@ -1,0 +1,50 @@
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.deps.json
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.runtimeconfig.json
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.runtimeconfig.dev.json
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Web.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Web.pdb
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.csproj.CopyComplete
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.dll
+C:\Users\Kavya H\source\repos\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Web.Views.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.deps.json
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.runtimeconfig.json
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.runtimeconfig.dev.json
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManagerCoreTest.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Entities.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Web.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.BusinessLayer.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.DataLayer.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Entities.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\bin\Debug\netcoreapp2.2\TaskManager.Web.pdb
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.csprojAssemblyReference.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.csproj.CoreCompileInputs.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.AssemblyInfoInputs.cache
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.AssemblyInfo.cs
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.csproj.CopyComplete
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.dll
+E:\Kavya\.Net IIHT -Code&Documents\L1-TaskManager\TaskManagerwithTest\TaskManagerCore\TaskManagerCoreTest\obj\Debug\netcoreapp2.2\TaskManagerCoreTest.pdb
